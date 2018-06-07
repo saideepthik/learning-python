@@ -2,9 +2,6 @@ import random
 
 print ("\nim saideepthi kothapalli")
 
-ps="20126196"
-print (ps)
-
 '''print ("\nlist concept\n") 
 lst = [1,2,3]
 print (lst)
